@@ -1,0 +1,9 @@
+&emsp;<h1>Welcome to Menu Program.................Welcome Welcome Welcome</h1><br/>
+<br/>
+<a href="part.html">To create a partition</a><br/>
+<a href="">To format the disk</a><br/>
+<a href="">To mount the disk</a><br/>
+<a href="">To configure apache web server</a><br/>
+<a href="">To create a namenode on hadoop</a><br/>
+<a href="">To create a datanode on hadoop</a><br/>
+
